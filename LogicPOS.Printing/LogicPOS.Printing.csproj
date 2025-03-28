@@ -123,13 +123,13 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="DevExpress.Xpo">
-      <Version>23.2.6</Version>
+      <Version>24.2.6</Version>
     </PackageReference>
     <PackageReference Include="LibUsbDotNet">
       <Version>2.2.29</Version>
     </PackageReference>
     <PackageReference Include="SkiaSharp">
-      <Version>2.88.8</Version>
+      <Version>3.116.1</Version>
     </PackageReference>
     <PackageReference Include="SkiaSharp.QrCode">
       <Version>0.7.0</Version>

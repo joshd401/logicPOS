@@ -174,10 +174,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="DevExpress.Xpo">
-      <Version>23.2.6</Version>
+      <Version>24.2.6</Version>
     </PackageReference>
     <PackageReference Include="log4net">
-      <Version>2.0.17</Version>
+      <Version>3.0.4</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
